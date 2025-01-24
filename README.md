@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto permite adicionar amigos a uma lista, visualizar a lista atualizada e sortear um amigo aleatoriamente com direito a narração em voz alta em português brasileiro. Foi desenvolvido utilizando HTML, CSS e JavaScript.
+Este projeto permite adicionar amigos a uma lista, visualizar a lista atualizada e sortear um amigo aleatoriamente com direito a narração em voz alta em português (Br). Foi desenvolvido utilizando HTML, CSS e JavaScript.
 
 ## Tecnologias Utilizadas
 
