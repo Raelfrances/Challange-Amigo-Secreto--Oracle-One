@@ -19,6 +19,13 @@ Este projeto permite adicionar amigos a uma lista, visualizar a lista atualizada
 Este projeto faz parte do desafio do Oracle ONE, que é uma iniciativa da Oracle em parceria com a Alura, voltada para o desenvolvimento de habilidades em programação e tecnologias emergentes. Os participantes são desafiados a criar projetos práticos que consolidam o aprendizado teórico.
 
 ## Estrutura do Projeto
+``` plaintext
+project-root/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
 
 ### Index.HTML
 ```plaintext
