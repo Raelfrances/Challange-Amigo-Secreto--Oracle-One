@@ -93,7 +93,7 @@ li {
 }
 ``` 
 
- ### JavaScript
+ ### app.js
 ```plaintext
 let amigos = [];
 
